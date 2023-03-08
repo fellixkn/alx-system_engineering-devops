@@ -1,2 +1,3 @@
-0-current_working_directory => prints the absolute path name of the current working director
-1-listit => lists the files in the current directory
+0-current_working_directory => script that prints the absolute path name of the current working directory
+1-listit => script that  lists the files in the current directory
+2-bring_me_home => script that changes the working directory to the user’s home directory
